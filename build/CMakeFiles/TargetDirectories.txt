@@ -1,0 +1,14 @@
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/uninstall.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/edit_cache.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/rebuild_cache.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/list_install_components.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/install.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/install/local.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/CMakeFiles/install/strip.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/nvtop.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/edit_cache.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/rebuild_cache.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/list_install_components.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/install.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/install/local.dir
+/home/mathav/Downloads/Recycle bin/jul 24/check/nvtop/build/src/CMakeFiles/install/strip.dir
